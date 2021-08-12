@@ -1,0 +1,965 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,261254163,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,2317523376,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,,,4819797204,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,3455141217,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,5403576359,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,1400915771,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,,,4456076519,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,7117098644,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,,,425723324,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,,,249833235,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,1212337440,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,165213915,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,,,3541576117,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,2320439780,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,5777886116,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,,,1936341912,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,3412775100,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,1321998115,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,,,1027523722,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,5592713026,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,531808041,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,1114667020,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,1819298632,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,2048636634,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,398581084,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,617062270,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,,,36609934,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,12480097,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,,,2480738581,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,1459526030,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,2159902621,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,1087883900,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,,,1033229812,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,2370175201,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,,,3377124213,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,2229497234,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,,,3805477246,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,4763413186,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,4311734601,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,1879418636,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,,,2623148186,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,3256972242,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,,,4260148272,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,18127304512,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,,,2909238095,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,3095200680,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,1969268201,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,400405871,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,,,1270921966,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,1034904969,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,,,1983051092,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,294567368,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,59727484201,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,14663206985,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,4843898484,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,3572765384,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,,,15940545702,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,11104083887,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,23117658808,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,31407170283,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,,,1942294205,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,364354861,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,,,3743751549,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,3066249030,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,5866945322,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,17760404722,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,,,2624370802,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,3101227157,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,1065659956,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,,,1861021172,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,195833474,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,242571584,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,550215138,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,271360328,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,,,9076526817,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,12204066468,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,24151064344,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,21500307048,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,7088912042,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,6495685564,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,642178111,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,,,737322183,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,4707304195,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,7464001929,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,171392991,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,129320826,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,,,4217646923,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,,,2792341121,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,297430258,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,91925965,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,79893000,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,,,22328543,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,,,1455940684,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,,,931152501,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,,,8129963434,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,,,6319941474,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,,,1932617119,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,1498424850,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,,,78085125,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,59071196,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,155841299,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,72630148,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,425893213,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,,,298926947,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,73170956,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,431816575,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,858455774,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,543622520,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,641495268,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,535570175,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,832702536,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,769194135,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,,,480863291,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,262815748,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,238107528,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,387652958,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,498471300,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,,,466892959,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,336229749,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,416411718,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,,,10797197154,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,4704986582,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,11721898114,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,6008826402,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,,,2500126639,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,804890681,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,7963605807,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,3700207338,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,525011365,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,306916373,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,133006447,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,26108466,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,127752698,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,20346283,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,1940469611,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,1190741428,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,2107788573,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,776287457,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,3519703125,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,3306983365,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,7656067119,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,7967502999,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,12485965532,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,14910200573,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,10894570073,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,7628110094,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,3445241745,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,2973187426,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,825203334,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,549745634,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,,,6853770433,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,,,5345020616,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,147956423,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,195765344,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,776351771,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,673810567,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,136065697,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,67571109,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,1210364444,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,,,977064100,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,,,2187632937,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,1318234736,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,,,2780461492,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,1832926957,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,82682492348,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,60791534011,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,54929653748,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,41826957101,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,881671822,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,761975514,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,65452926295,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,51058254602,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,,,23924987090,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,51480741814,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,868892989,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,2196126089,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,1663358215,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,16796605,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,,,1861407,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,,,2845110677,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,,,1007292289,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,7655905472,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,8965943489,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,219231812,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,,,8845212,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,8203505526,,,0
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,16398539165,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,4775542345,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,1863953752,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,79504920,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,75021531,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,,,17901328287,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,5392679147,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,9267896745,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,10377454080,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,186995859,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,6968087,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,,,2601547958,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,4476532144,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,1125824546,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,989319526,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,3683063,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,628898,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,,,1112500054,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,,,1150732378,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,3160433411,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,1026950945,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,5581085,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,89323155,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,,,2277650397,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,447218663,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,6992675540,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,1240105055,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,44453339,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,268616650,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,10287827032,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,4785985657,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,11215449666,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,2128097004,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,77103727,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,1208534813,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,18097735056,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,14876929501,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,4516704245,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,3362856711,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,19912627,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,1122871797,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,8661637017,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,1170121740,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,2741787863,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,2469057177,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,407120644,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,2103883,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,2466772215,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,18594946549,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,630248125,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,1702843562,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,87253496,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,20176539,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,1740672917,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,912452386,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,5919753817,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,1554496344,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,61691424,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,64991376,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,2454282739,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,26386370056,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,564900262,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,511392231,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,7480815,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,6105663,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,1510289451,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,562105440,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,46364112,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,8421847,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,123407,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,3350688,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,124094177,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,,,39410747,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,4458553844,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,3241973497,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,185039242,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,570368457,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,7182323428,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,3319106407,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,3126339840,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,3232091025,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,69139981,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,104283748,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,5428447783,,,0
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,2162377800,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,1860179013,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,2539205726,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,60092048,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,930827193,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,4250260265,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,2022376462,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,4886481766,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,5948440285,,,0
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,42129236,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,15290568,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,5145880844,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,1991054636,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,4748322379,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,7076700666,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,245512555,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,203056462,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,7362989215,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,4066085033,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,5620921324,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,3147519900,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,125714803,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,124736873,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,8558104820,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,4990253643,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,3710653907,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,6284762416,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,347680416,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,194715286,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,4805668582,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,8508518579,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,8071194998,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,6611315793,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,161330273,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,317847302,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,24675283943,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,8297611948,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,4084982107,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,4516924686,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,260096993,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,73566055,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,2934224007,,,0
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,9567880014,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,2316475747,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,4529164870,,,0
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,20302849,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,57361993,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,2173591950,,,0
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,,,2179906563,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,2058277774,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,,,2233482251,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,53394981,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,29086315,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,3756746574,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,2841252450,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,8531625759,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,553188715,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,2625779,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,321174851,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,,,2765028648,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,,,6011333679,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,92127407626,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,26149968659,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2816601852,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,381236470,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,204019056862,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,139082249161,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,7185253107,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,8558425616,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,133951114,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,27640622,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,11530696556,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,12391086639,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,34639777637,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,25166910185,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,326213338,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,45877129,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,46099039154,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,36279584874,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,53700027421,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,83959330517,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,615385143,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,223475923,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,96879110876,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,44936430945,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,1264846966,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,970975601,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,231728606,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,26338093,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,6060858646,,,0
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,3771413751,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,6941312109,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,12951169935,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,182622519,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,61264582,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,4127333533,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,7858766712,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,8113757384,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,10569035293,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,387914558,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,168985589,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,,,13539721794,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,12954789503,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,4488890593,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,8448686447,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,168401894,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,197983668,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,3432410144,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,7211292773,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,2437679429,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,3877004545,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,48838742,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,10519666,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,2684891964,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,3595217737,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,281442542,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,212175681,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,10568881,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,6815952,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,,,845677570,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,,,785015339,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,1027186221,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,1426056976,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,18544293,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,618987,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,,,1665644735,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,,,2191915827,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,14903910948,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,25102427626,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,310152419,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,208229921,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,44373571631,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,63132361616,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1051473484,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,316391839,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,16033380070,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,17116679057,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,211160043,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,197481112,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,908726433,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,1083909999,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,25199940,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,8371794,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,4677931792,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,2557897184,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,49249283,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,36964805,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,166040502,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,143152007,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,88739,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,4212,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,8696313795,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,8826451363,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,73827449,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,108903320,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,115721247,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,33386709,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,2459357,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,596,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,132483328,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,51209958,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,416609,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,246473,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,4383332228,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,1417439755,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,15760016,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,27225531,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,13835561047,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,20034478002,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,,,677205140,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,257684135,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,2836252659,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,4583534104,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,85714059,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,24030343,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,56318274,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,50311367,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,63488,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,2589,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,745959337,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,579028428,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,10543958,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,693833,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,1049309439,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,964243927,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,239468523,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,42262837,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,76833724,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,42906403,,,0
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,2872010,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,2015,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,1754372874,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,1626517572,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,213351940,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,42722877,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,1724936560,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,1099682532,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,169781577,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,17137727,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,1604975000,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,2745913019,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,21018800,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,16032307,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,1238587687,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,637536341,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,8168852,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,1210840,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,299099165,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,595956875,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,35438659,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,9917674,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,1295330420,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,2708455213,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,17217360,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,2116372,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,537111302,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,936545653,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,151562335,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,117885800,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,19156461426,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,9970807471,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,,,102502672,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,1093214867,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,18719625005,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,10770842237,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,133780518,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,247179866,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,4343027627,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,2804102568,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,153499353,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,44464508,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,12601726819,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,7605190264,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,165319948,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,42411100,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,684399066,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,491379656,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,10303683,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,1763268,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,246445045,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,105437566,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,4762678,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,852190,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,223722722,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,136817881,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,2884467,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,49719,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,3568596116,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,5196148201,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,39785935,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,3586531,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,3136288066,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,3655410538,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,,,76828669,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,55226383,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,6170980029,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,6918868219,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,77803610,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,58366713,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,16981996325,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,12603058600,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,25003438,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,14623316,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,29020813887,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,26230864583,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,624108202,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,305008091,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,22964905775,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,30388696829,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,,,251396509,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,135311983,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,10875918573,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,12280164092,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,10613629,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,6094392,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,1470534218,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,1209236318,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,181697,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,15353,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,18125284786,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,16408553485,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,159782651,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,110337649,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,563208770,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,498461587,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,620271,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,4903394,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,1841171662,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,703012087,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,27643506,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,2483310,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,511417459,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,130883886,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,416991,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,46361,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,2490205510,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,1610703565,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,284066,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,5681831494,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,9396109927,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,76573042,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,5071484,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,5275017324,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,8419220527,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,108562354,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,11085603,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,151031204673,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,248021600077,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,1404324484,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,106078755,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,147159541307,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,149977059977,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,1560230754,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,146660105,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,3062685241,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,5242110031,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,3795651,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,887866,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,122816289727,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,257281253492,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,1429097937,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,53636647,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,17867181640,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,42281177791,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,149821105,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,2392739,,,0
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,2098340306,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,2963843918,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,7020599279,,,0
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,21653759,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,39242,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,18714820997,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,15876992157,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,40577534434,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,73306122120,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,195404184,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,30425349,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,3104378306,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,2818170983,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,2537619463,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,2053186727,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,14150114,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,2020505,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,371685169,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,274000402,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,688322440,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,704164848,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,14304639,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,221061,,,0
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,194190646,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,112842941,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,266240303,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,535115019,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,10710036,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,3673,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,11008287156,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,3990237654,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,20628588048,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,17277242759,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,149383147,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,68144235,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,5333289883,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,1862240765,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,7809812956,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,5440021475,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,117987397,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,17085945,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,2238944617,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,1769838933,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,3137615840,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,4417392602,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,147504847,,,4
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,33519679,,,4
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,863107589,,,4
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,1475810172,,,4
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,745159062,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,918018687,,,4
+H5,2017,2017,2017,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,3931473,,,0
+H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,189080,,,0
+H5,2017,2017,2017,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,329450242,,,0
+H5,2017,2017,2017,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,386587567,,,0
+H5,2017,2017,2017,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,13870877164,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,38494616272,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,,,13830417885,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,27678004954,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,54722639703,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,61937248863,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,27903315159,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,13438220418,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,,,752011566,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,,,2698190215,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,,,13475025053,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,,,1553959957,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,,,293578259,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,,,287003102,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,21103061770,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,,,9775356300,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,,,271965962,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,,,24695882,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,578628496,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,,,18160923,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,3301617736,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,8764441445,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,16370537018,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,15766131103,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,4610304529,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,4455781501,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,84601364,,,0
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,13097356,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,274072132,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,75173043,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,938251211,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,7635373834,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,237228824,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,20100879,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,2154697120,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,1777130897,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,1735974272,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,,,2164196859,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,2223534957,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,2408869967,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,2903801888,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,999204410,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,762236476,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,492175424,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,2670418139,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,2292291655,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,1048187210,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,882424207,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,45748924363,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,2685047561,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,37807716274,,,0
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,2300241311,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,15347600107,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,2138083295,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,26607286687,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,1432622869,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,2491389124,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,301264757,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,,,662710440,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,,,38286108,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,2278802546,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,,,152716007,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,8399894663,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,3956275269,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,,,6655369487,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,,,1928868674,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,,,7933153100,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,,,5828952686,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,,,58779047269,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,,,59594774994,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,28816847585,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,16105489764,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,39124653650,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,18440973086,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,10100351786,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,7183465515,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,2419698673,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,2007420430,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,23380915146,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,11587898818,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,1558742658,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,168756426,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,2233003548,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,451696673,,,0
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,791847093,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,149446041,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,2663409374,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,2875454987,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,,,10120910132,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,,,4652229738,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,12082712575,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,4853277990,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,,,348601309246,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,,,202060699153,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,,,355997429299,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,,,174299564120,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,,,1693976107,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,,,3188298019,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,294283171951,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,130406803876,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,,,30918573568,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,131120781564,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,2555744238,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,2164711428,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,,,86045383685,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,83637367262,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,4898229489,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,1390611466,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,,,1335265162,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,,,720835708,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,,,3018027340,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,,,5284109658,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,66961240385,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,10811342488,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,,,32704515936,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,6904695462,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,,,6414610189,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,2427916521,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,,,10397546054,,,4
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,,,11737081328,,,4
+H5,2017,2017,2017,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,90992565603,,,0
+H5,2017,2017,2017,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,42447467571,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,,,138161746,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,,,21899172,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,,,1561052609,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,5764826,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,567337995,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,36562922,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,475301332,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,311330457,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,36578946,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,24938669,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,1948538,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,60593099,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,,,455536414,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,1070250069,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,,,335205298,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,1281922114,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,,,496620343,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,31842269,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,,,4432447036,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,2939696,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,,,36350021,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,126186030,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,1166214305,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,302695291,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,18695706,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,,,20866781,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,2965915,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,1709242,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,1403331241,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,165986217,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,104536204,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,8174166,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,822447575,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,357125490,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,101851513,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,102120961,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,104943547,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,147021465,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,59122419,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,404043396,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,219511883,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,189531078,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,29784079,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,37438489,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,,,864555298,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,89133313,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,276130978,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,125853211,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,200689394,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,389924743,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,,,873418235,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,14269938,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,11696772672,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,5116436693,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,495656505,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,377483947,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,1430017097,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,,,296767421,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,2195119821,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,279541934,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,129046200,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,1099281249,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,553942546,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,137640457,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,285536970,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,,,545943218,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,247477848,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,325370653,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,114247086,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,,,48538672,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,4667005,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,147852,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,,,34734291,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,,,121819,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,1051670061,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,153778189,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3208093225,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1545771648,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,782611809,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,85641844,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,6009889,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,112883923,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,,,47289129,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,,,1351912,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,645319,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,7953,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,,,1317906516,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,30320745,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,737304,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,158014,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,548546,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,2246956,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,236866369,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,177265,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,,,1158510527,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,287391556,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,64413433,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,10563504,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,7163006,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,,,1098115,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,51475789,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,65706124,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,726762650,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,473074856,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,28311830,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,18948176,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,945533928,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,96972020,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,729701808,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,86652704,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,157611343,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,96497598,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,,,47573691,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,,,319390294,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,97667707,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,23981256,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,,,38120217,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,247869,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,193356745,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,44645763,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,81995191,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,471980277,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,,,333444120,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,,,989765939,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,52346024,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,232877182,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,,,100313581,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,,,4835606,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,7700317,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,159052,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,929692,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,2502,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,2532883,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,583001,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,79971837,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,188946070,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,169458321,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,,,301950528,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,,,153446401,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,,,433661220,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,186160251,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,2116764085,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,3248077350,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,871923138,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,2748135104,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,280214774,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,,,707664154,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,240513803,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,6023338,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,17733123,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,,,362609952,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,485102261,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,23128579,,,0
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,10697656,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,79157054,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,2331964,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,,,5263672,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,9852078,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,2413,,,0
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,119269419,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,55924120,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,,,203943801,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,11632863,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,,,5752666767,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,,,150576349,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,,,4857460646,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,,,1759149044,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,,,18730642,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,,,57844,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,,,3145008116,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,,,134260302,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,309508,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,449,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,50740254,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,900967,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,,,907209260,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,,,64169117,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,20284975,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,1439,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,,,1736242,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,,,238817,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,,,4688801,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,,,213596,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,287654988,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,330834486,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,62478951,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,,,600015,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,,,102524124,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,,,260466447,,,4
+H4,2017,2017,2017,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,,,415820,,,4
+H4,2017,2017,2017,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,,,62686,,,4

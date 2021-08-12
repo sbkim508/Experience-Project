@@ -1,0 +1,967 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,5250652,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,1489068,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,156617971,,,0
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,255730454,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,316411696,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,3885763,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,9311958,,,0
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,970284,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,1449535,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,15860779,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,362328476,,,0
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,38605708,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,73240749,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,178301735,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,117137840,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,1877343554,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,657832158,,,0
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,6298675,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,13177261,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,28826028,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,34740311,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,8365265,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,3899056,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,,,876818,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,,,19323655,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,2309801,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,9800710,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,32557731,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,205067470,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,95776109,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,63881462,,,0
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,2664126,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,257484566,,,0
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,2543571,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,25669344,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,15356166,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,60073029,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,20334592,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,24070800,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,120633901,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,71494883,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,100995488,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,72328133,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,31109374,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,160033046,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,80179191,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,70127965,,,0
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,110552145,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,608840571,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,22274603,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,3809166,,,0
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,12092750,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3215430505,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,294670912,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,142328983,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,9876480,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,192832564,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,1564498,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,435133495,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,8860077,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,102952041,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,1035699,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,161553009,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,8960278,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,81588057,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,59563187,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,63721636,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,16631738,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,35219613,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,3722538,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,1099375,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,16044,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,19696330,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,75307,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,245269715,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,90780074,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,723051814,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,84397990,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,388744675,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,876898901,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,18100211,,,0
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,309861,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,,,12395696,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,,,22761191,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,1088972,,,0
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,21122,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,,,113201408,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,41704139,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,107537,,,0
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,14,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,934960,,,0
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,1195212,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,2722973,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,38176001,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,473172804,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,62023505,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,43738602,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,49186617,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,21410621,,,0
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,24218,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,10414616,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,109211,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,654053984,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,26767787,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,21081635,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,149909838,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,230350527,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,8427450,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,451133501,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,40502295,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,41725143,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,41217335,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,,,12871703,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,,,7315750,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,299701214,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,43254785,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,74673078,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,9878210,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,843851243,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,61302321,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,84822394,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,2727907736,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,,,205305384,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,2011970692,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,38372517,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,80213310,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,,,47675859,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,,,108410109,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,4265819,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,26546668,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,2616120,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,508352,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,840681,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,1818185,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,37244191,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,26008786,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,99773994,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,33903767,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,,,60789452,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,,,16333071,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,772131953,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,266814380,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,802289702,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,6053195,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,430324740,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,34309062,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,112019031,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,27478637,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,392806,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,27976,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,111932160,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,23073227,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,13845332,,,0
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,15434615,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,20821415,,,0
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,102607,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,2041226,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,1631883,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,15757,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,47814697,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,9078166,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,87016412,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,14709439,,,0
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,,,1676301454,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,206287095,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,,,1382077632,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,286601830,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,,,3260668,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,1560252,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,1497811536,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,65930409,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,365771859,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,63695404,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,247692664,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,280400211,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,,,273273651,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,,,58764411,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,14709518,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,2214086,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,,,6445091,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,284198,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,122303414,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,52105279,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,91317697,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,48000230,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,29818164,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,70977116,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,81680065,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,46266525,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,,,870160,,,4
+H5,2017,2017,2017,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,,,157689,,,4
+H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,143851,,,0
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,,,210840127,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,,,60701935,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,676165406,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,295644188,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,282780867,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,,,447380747,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,178923245,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,265424936,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,,,541986111,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,789455868,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,,,1615467756,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,6326189877,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,6857587025,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,,,3460177310,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,,,2093879665,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,1623679721,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,129491200,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,24676378,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,,,230033515,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,368601540,,,0
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,,,17785979,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,81144877,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,246252285,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,404393216,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,101527288,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,,,213977813,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,1399167665,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,6843558501,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,155949574,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,3390004233,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,3128695965,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,9465622050,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,222516742,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,136837702,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,,,1415465284,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,604149852,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,1006597809,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,,,581574092,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,,,3139822419,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,,,412398568,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,84411434,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,178424311,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,,,258169089,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,,,275516582,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,137288675,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,200047255,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,,,2383388263,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,,,655571826,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,27658800,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,11362827,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,211901585,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,372155581,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,3255425,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,6153740,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,47696615,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,7898155,,,0
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,762547230,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,269569048,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,,,3343080203,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,5585383906,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,152406935,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,135528732,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,1402103201,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,1720912392,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,620631645,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,391230577,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,,,940740619,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,670423422,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,155773795,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,77815104,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,1146176905,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,689771239,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,146810135,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,251380354,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,,,1444951181,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,1837816414,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,209596937,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,590466155,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,,,1391248583,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,3324043568,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,312351951,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,445298144,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,,,1428313664,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,,,1718748175,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,506491692,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,1321475897,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,2131791660,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,4703103048,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,412573891,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,,,246960899,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,,,2000696185,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,1128488374,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,230225263,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,,,229697183,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,,,1824727366,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,275346493,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,217780108,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,,,443478670,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,,,770080038,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,,,1332642426,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,109501722,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,,,11272454481,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,,,5318616957,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,,,2356273548,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,12264043924,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,10564064659,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,45701066054,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,17842249625,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,1227725350,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,959204192,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,2190719339,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,1363834555,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,1348512336,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,,,1145529965,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,,,9880113853,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,4624693742,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,2237723761,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,450588611,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,14131996001,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,11352833739,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,500153477,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,,,355610985,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,,,1037142055,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,,,886073064,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,481685998,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,311647676,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,,,2101418682,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,2896875868,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,1040159349,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,572884314,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,3611429520,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,4535822624,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,279679447,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,417128908,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,,,1113913166,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,1426310139,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,230383762,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,67719436,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,,,677481700,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,,,262163764,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,64204771,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,124999350,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,,,36724438,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,104180617,,,0
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,,,67149650,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,,,11769517,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,176084463,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,97816788,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,1575097413,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,1045717570,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,,,4498026187,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,,,4431032603,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2478490493,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,1304930132,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,11888295650,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12155849267,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,1175994230,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,477297095,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4200725739,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3991233200,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,74623684,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,269840641,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,630392218,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,739870536,,,0
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,,,228424204,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,,,76691896,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,1902770400,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,,,1361088430,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,527242,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,3176708,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,32100589,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,95004831,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,,,359821847,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,536260402,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,,,1472766518,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,,,1674419180,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,15303839,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,,,1083721,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,,,149693355,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,331640791,,,0
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,5031897,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,3206048,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,51816541,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,15222751,,,0
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,102837306,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,941582697,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,,,942656196,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,,,790153521,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,908293020,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,621792615,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,,,3858894431,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,,,3815999491,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,456505033,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,83899866,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,,,588767799,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,873090384,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,1336494,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,,,2551580,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,10465316,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,3505622,,,0
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,54927291,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,455245899,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,106462890,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,135057597,,,0
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,183278002,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,45151736,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,528259872,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,691231470,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,12849565,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,1020408,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,,,71623633,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,35937057,,,0
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,220589780,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,39234006,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,,,831961870,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,775859404,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,192705025,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,46763058,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,778887999,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,744648554,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,126925861,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,41841508,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,449276769,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,515684899,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,,,39977067,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,,,31712744,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,205801543,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,125537202,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,40731206,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,15172304,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,,,140198871,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,201163952,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,161131324,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,36797838,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,330076972,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,,,374631073,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,198011433,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,24392573,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,248798490,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,397268507,,,0
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,,,782370204,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,,,226578559,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,7883070682,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,5427987225,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,,,891767515,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,,,194957968,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,10019572599,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,,,8347121761,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,208815409,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,144789751,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,,,1398145426,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,815577260,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,,,857961151,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,181266789,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,,,58079271,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,15395064,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,,,8672686,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,6606955,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,56374298,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,25797574,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,241015236,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,125540634,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,,,449677045,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,149367399,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,,,264609927,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,,,153317432,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,1010624533,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,,,14108857816,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,1065583852,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,6035555957,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,,,1025033235,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,,,1260286046,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,520213632,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,669625751,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,52540350,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,305772138,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,623770273,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,1808539334,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,33274418,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,27017782,,,0
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,212858273,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,8798632,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,20855463,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,,,646029,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,61845241,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,,,123850852,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,,,477680732,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,,,183005475,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,290864018,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,121144614,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,,,10981813934,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,,,5369148949,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,,,8499467407,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,,,1803631126,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,,,299448719,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,,,241733080,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,,,6985329983,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,,,9772859684,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,,,973666731,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,,,352978923,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,69022202,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,199046230,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,,,2142125957,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,,,575254492,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,116917356,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,21903119,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,,,16800774,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,,,2771340,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,,,77359744,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,,,223746643,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,,,706880332,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,,,396682146,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,,,460041853,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,65200393,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,,,291234791,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,159019374,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,,,50603986,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,,,87520968,,,4
+H5,2017,2017,2017,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,6774961142,,,0
+H5,2017,2017,2017,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,429782987,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,99240072,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,19041479,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,1212193548,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,34672803,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,713463281,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,68509633,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,157965584,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,597677392,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,606977489,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,5198785,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,229166876,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,802182434,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,594143880,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,713342978,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,147801108,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,723901876,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,72319989,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,38204699,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,59107781,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,55382471,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,,,560399710,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,6154819,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,83243061,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,86144521,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,645754479,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,7518694,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,847274130,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,1287246150,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,1335698789,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,16812102,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,1010728966,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,4380057704,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,862704852,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,2292303550,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,357053516,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,221559549,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,,,316393610,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,5678743,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,,,1979039231,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,450488213,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,82827959,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,,,10566617,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,,,143410099,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,1259457255,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,256258498,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,17751758,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,1946461426,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,409699437,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,85590073,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,110916201,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,44699251,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,11997793,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,4296372,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,171420,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,13912269,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,21202171,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,390126380,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,85278274,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,,,1512044855,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,1099749743,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,359152214,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,11280058,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,9562127,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,113018066,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,248596217,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,180217995,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,,,249654930,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,619670037,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,613131649,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,934223437,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,603755782,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,527272693,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,794220526,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,781825382,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,230424749,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,1626997557,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,536022802,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,78780937,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,128516022,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,1953512158,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,736354048,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,1098406019,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,684945006,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,737021715,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,1952919090,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,,,1995114796,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,335795158,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,326264167,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,,,472709107,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,210566032,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,1733166146,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,341401607,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,273043558,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,548545302,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,687776415,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,952389163,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,401582356,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,,,61121349,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,,,409394113,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,2630859510,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,,,16226240,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,16734083,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,,,1092763144,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,1396672456,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,8197936077,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,2068828399,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,37654928798,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,4799234020,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,563994818,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,519077340,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,1441169658,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,1328444172,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,11031354604,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,19873565004,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,,,5785632274,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,684930284,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,28719984158,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,70281761482,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,4520075758,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,995167605,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,,,99425192,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,,,10645228,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,,,1379361921,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,,,198788837,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,1118238292,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,1938814122,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,,,2045770292,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,702858016,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,1382712646,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,3289634253,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,1382893548,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,823549043,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,614196545,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,510032714,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,900779424,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,803539895,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,278801003,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,483323408,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,469788646,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,213751366,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,41604025,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,48101274,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,49871027,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,31415792,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,67905155,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,14859058,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,142317524,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,17702623,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,1702187010,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,1342986928,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,2224580078,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,575361198,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6422817640,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5098422517,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,13336040599,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5837607416,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1277073286,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,412474495,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3001621592,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2566383317,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,56257957,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,96552443,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,272769328,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,229885447,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,1224120261,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,567712203,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,353012739,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,313587083,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,42720631,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,7172013,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,43445254,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,156903604,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,1914364489,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,573624034,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,1120120522,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,752055473,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,30624861,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,8174437,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,5309201,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,627658,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,19721828,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,735428,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,8776065,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,1224288,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,,,147424559,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,,,92809726,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,946240542,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,22025679,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,2056452656,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,,,1166596688,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,,,2824746818,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,1506198164,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,1491759582,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,431761006,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,149769527,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,83333187,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,8789995,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,6700233,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,34177141,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,3403531,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,66798166,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,41803119,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,318733893,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,143016709,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,150847410,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,159692838,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,3024277426,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,1743171981,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,11348356,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,4101052,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,322507532,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,31637245,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,168909565,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,187379252,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,2302674359,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,1509947968,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,,,83474931,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,,,76738176,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,2136192309,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,1396055840,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,263119400,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,112628804,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,381372696,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,653293042,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,182309632,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,110175916,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,59260259,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,2182258518,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,56344350,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,77356681,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,207091367,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,475750048,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,176564123,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,318339411,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,395211084,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,296230138,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,77192925,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,61077465,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,480241437,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,1586960993,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,2713282882,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,731699672,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,727928422,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,8951418758,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,3572396827,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,1231275279,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,1300701700,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,6398279319,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,671755402,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,138915068,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,,,261264064,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,2300272917,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,,,3529759127,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,3192967791,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,1998431262,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,790553145,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,688605348,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,796357420,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,257518426,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,137979732,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,130522335,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,14596649,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,55792632,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,38116702,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,,,83118823,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,27220392,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,43050732,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,26101238,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,19974027,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,6190629,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,62715667,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,13252659,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,30240780,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,1240467,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,32459829,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,2572683,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,754579494,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,1911629162,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,922015452,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,495398697,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,553444025,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,1204249761,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,,,599373160,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,3606869387,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,609069997,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,161212453,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,348899393,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,974025701,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,,,1825975765,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,1436767278,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,939584936,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,484336307,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,925267305,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,915280561,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,,,1914168027,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,,,2103192231,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,88849575794,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,84310206726,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,17452024357,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,10883838994,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,9612648010,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,7706198693,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,2537243123,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,1232664405,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,16968711122,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,8163706558,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,,,4475037625,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,7372473674,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,3725974623,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,2997206223,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,3084064237,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,5751960973,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,,,1866364908,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,,,3322941670,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,932945678,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,599166468,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,3360902865,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,1344597268,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,375377590,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,42457898,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,101950168,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,69128336,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,182248673,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,70446933,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,,,3502680870,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,4049918507,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,2974204154,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,2312609170,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,,,3649520447,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,2562846850,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,370197109,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,,,44298230,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,16868597,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,,,7845133,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,318614878,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,29315608,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,,,101473158,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,1273231708,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,58713079,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,31899312,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,,,854823975,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,21824175,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,139843248,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,,,73487629,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,24112683,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,3613791,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,72995798,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,5262090,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,227472867,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,65914745,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,202408705,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,127960834,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,204933231,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,90815286,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,1186850681,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,1111307914,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,1005218982,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,1850535867,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,627498430,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,249620137,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,,,1637127675,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,1448511777,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,701058531,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,359452819,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,873897571,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,855950322,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,,,32970892025,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,,,23181563870,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,18848888429,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,23729766877,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,27931516748,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,14866240360,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,,,26123562584,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,,,16760112311,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,14177115987,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,12237584526,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,20605038858,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,9144314150,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,277744259,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,1651596991,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,894695664,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,1028417293,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,359064087,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,48055533,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,,,43989351469,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,,,54155840105,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,14988970949,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,2430206621,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,,,17914174819,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,24599138695,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,,,5581897656,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,6616115480,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,3002816056,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,1951752154,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,2769026904,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,1664492116,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,781229179,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,1002075873,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,451669082,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,105496553,,,0
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,2685884739,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,1541823671,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,,,8436374606,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,3464021866,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,7665013509,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,16059324769,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,5132540878,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,990683515,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,834196008,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,459079772,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,3595286705,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,20234002996,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,295752952,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,49964558,,,4
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,134820697,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,39887622,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,94497605,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,27318473,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,34477977,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,9574121,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,128797901,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,478660563,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,142776644,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,265233157,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,254903651,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,298609143,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,,,4422960766,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,,,3646186028,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,4385981627,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,769739451,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,971878676,,,4
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,2889615981,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,3347366223,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,1827047725,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,1081872393,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,187175055,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,607763420,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,136069882,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,,,963118111,,,4
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,745477365,,,4
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,496168795,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,492630616,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,557632249,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,882688803,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,84993062,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,103670383,,,0
+H5,2017,2017,2017,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,2137588297,,,4
+H5,2017,2017,2017,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,2504504148,,,4
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,36538369,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,9269403,,,0
+H5,2017,2017,2017,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,231936597,,,0
+H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,7317669659,,,0
+H5,2017,2017,2017,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,363745325,,,0
+H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,414330919,,,0

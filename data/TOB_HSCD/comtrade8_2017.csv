@@ -1,0 +1,581 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,,,343053655,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,195579903,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,351995453,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,1705962659,,,0
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,,,1386235620,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,575717679,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,607341590,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,1816493466,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,,,246477136,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,4713628,,,0
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,,,103158525,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,70380587,,,0
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,644269256,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,1342002978,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,3721340775,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,2163098476,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,213727540,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,734494419,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,2577072909,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,1300826641,,,0
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,258542779,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,119950460,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,,,889671448,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,940313445,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,,,69449156,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,82632551,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,3543857,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,4846933,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,,,766849628,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,625049288,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,58012743,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,250972336,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,301748858,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,1360578386,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,50527036,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,559929252,,,0
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,552103014,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,886832146,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,76429077,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,586764616,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,,,691553026,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,923872836,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,,,189717902,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,1064895238,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,3227719982,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,251863170,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,302491099,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,791546336,,,0
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,,,392817869,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,476550391,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,,,451265139,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,846752714,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,11036918870,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,9364740065,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,1336130676,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,1932348489,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,,,3162033578,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,1518312445,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,,,3038302692,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,3585037811,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,1293077787,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,65408649,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,,,1484653105,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,821090198,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,,,673589089,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,3307568287,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,624575684,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,1008711825,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,631655625,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,137886072,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,1355683,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,29346827,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,,,97237915,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,326643768,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,,,2894570859,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,1152307871,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13313631952,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4287560587,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,2472518120,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1797421708,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,,,1693948208,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,32087666,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,,,139379331,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,1322925183,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,,,238189193,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,18570417,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,,,2093062909,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,895604888,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,784066,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,38241995,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,12282716,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,16442544,,,0
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,507471527,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,124410920,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,2363112671,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,1353483468,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,,,165835554,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,365753087,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,61293547,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,18526237,,,0
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,233085052,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,18465668,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,,,4055422761,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,203667600,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,69654009,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,13009527,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,2512175728,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,792377985,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,,,3060344113,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,304116413,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,729299601,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,152418860,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,,,54183496,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,236097832,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,,,1013128167,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,114952432,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,1115389630,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,112311402,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,4433584721,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,115463566,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,284746788,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,2770773329,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,,,233766660,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,2472247781,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,,,110550811,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,560320684,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,,,907125116,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,2034635608,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,,,17229328,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,79111829,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,8541864,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,12721651,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,44561734,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,36150472,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,402846580,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,974745520,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,,,331208333,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,362487164,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,,,1071848507,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,763654695,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,,,612659503,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,54703380150,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,10682441538,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,4084645965,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,,,3156559662,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,4833583577,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,2705336480,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,2332078816,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,,,82027152,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,181438354,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,3057972843,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,,,1153535734,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,368763782,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,,,130034721,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,509482400,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,313465420,,,0
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,77242621,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,11613690,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,,,50565088,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,56290692,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,,,510040275,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,742954707,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,,,756882229,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,805896580,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,,,22638090017,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,30071393857,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,,,63776692755,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,45234676848,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,,,74982668,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,63099562,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,4635642328,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,21804476456,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,,,312409223,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,8505596397,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,187329351,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,737420962,,,0
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,,,8353026424,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,3539037052,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,98684337,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,1719223253,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,,,26387054,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,80316600,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,147620999,,,0
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,632432934,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,2484039032,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,,,249535541,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,1213376896,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,867812357,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,693285230,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,,,497991,,,4
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,616018340,,,4
+H4,2017,2017,2017,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,290383112,,,0
+H4,2017,2017,2017,2,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,6095640738,,,0
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,692588632,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,5528560427,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,2720729874,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,,,3910792047,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,184227470,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,1544204210,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,4165521165,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,6348532854,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,,,1803377215,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,1546240429,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,434378972,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,,,1094794996,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,218835842,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,22292172,,,0
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,,,2012849447,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,4561505222,,,0
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,,,1529906881,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,2628473279,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,,,4022365762,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,3660943828,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,3830387854,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,,,7792655110,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,2766659221,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,698195585,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,,,1090465212,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,,,1697732389,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,51655153786,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,2911709636,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,,,9809029957,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,33093224013,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,,,936386470,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,2664325217,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,6584322109,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,,,2493140212,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,885246304,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,103611765,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,586675285,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,,,5022306041,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,18440248338,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,5444306510,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,245025454,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,,,3540097825,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,102209074,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,,,6940899739,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,,,34555651,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,85437986,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,756910641,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,,,7219579152,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,,,2393281469,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,43087580,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,416997480,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,,,318801163,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,94655288,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,,,838632020,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,583824871,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,,,756528413,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,1160731695,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,,,371520735,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,,,427377401,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,249404927,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,,,12504993243,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,11730327023,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,,,2412143750,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,6792457169,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,470935533,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,89613483,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,232239186,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,1904142338,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,,,1750864062,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,,,2494180905,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,49630378605,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,6038174976,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,,,8966371811,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,,,2079701515,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,1170004225,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,,,5118078802,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,,,583976090,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,399920774,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,,,142914485,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,1069434368,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,1941821078,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,,,2614177080,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,79931284517,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,60035770172,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,2270473160,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,,,73446102820,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,14971660931,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,2167617682,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,17768742427,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,2001999332,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,352446023,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,916315094,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,11585995301,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,,,6341048951,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,,,2289455304,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,2869000225,,,4
+H5,2017,2017,2017,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,10106465811,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,,,20996714,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,42979118,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,99223888,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,70800242,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,,,6141701246,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,74373692,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,,,138663140,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,539344168,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,,,48008306,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,1555922,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,65649813,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,8932921,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,615687481,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,322536339,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,6167439304,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,769188899,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,4623612809,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,380083178,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,2663088748,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,,,336954791,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,836926098,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,54333313,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,,,97355648,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,34333083,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,,,43231954,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,50214830,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,,,17908189,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,1954867,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,,,187719742,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,274516421,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,2150221045,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,217980446,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,141631194,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,1037274605,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,19417948,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,252652757,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,627177671,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,278215177,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,494826824,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,313420297,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,,,654005395,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,485955358,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,,,283126893,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,394330032,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,,,610143767,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,187891353,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,,,284282499,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,633635557,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,,,1026772073,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,1024268174,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,,,110735408,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,40714930,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,4847077377,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,63092617312,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,1086204063,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,263756575,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,,,192348579,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,537615783,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,,,148378731,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,,,837250369,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,263680876,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,,,77389536,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,,,88904744,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,431589151,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,307758495,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,2348847490,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,421107395,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,447886622,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,106347034,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,34960605,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,,,1631026,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,3314892,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,,,5387989,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,177101151,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,,,610098368,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,382977494,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3315735447,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4893855623,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3817118252,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1428064337,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,,,455549895,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,20770094,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,,,3077412416,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,319633745,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,,,138615427,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,6957964,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,,,2463503210,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,140993412,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,197118,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,25638388,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,,,207583846,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,12290160,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,3125346,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,,,103168652,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,756668335,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,488784705,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,,,41786600,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,905303842,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,92783717,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,10494102,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,,,5910468,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,9052232,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,2641383655,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,88182984,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,,,31741847,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,6640725,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,923172075,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,1070465935,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,500107705,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,145728009,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,,,334047375,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,61817866,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,,,44007699,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,145728317,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,,,89998588,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,44700524,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,543309083,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,35388541,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,,,757891090,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,52546531,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,,,12058645101,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,1500905045,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,,,12337234686,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,920142489,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,,,1449435062,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,428218170,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,15217908195,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,836789910,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,337713557,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,26718442,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,,,19906714,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,3885747,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,,,43212141,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,16050261,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,392865323,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,302334768,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,,,461056734,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,273265125,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,,,1033365084,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,564524404,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,,,689081507,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,46498862160,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,3332978963,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,1199189978,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,2299060482,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,2330576046,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,852876369,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,1808397355,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,,,1438119,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,124229181,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,900366441,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,6206387607,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,92210740,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,83828531,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,13205963,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,97425026,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,20547055,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,22585390,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,,,42174527,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,9837455,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,,,492479787,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,321014221,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,,,281361576,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,332287877,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,,,11222017839,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,15410401056,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,,,75322542532,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,23106618069,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,,,2333308,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,80949061,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,,,2329866141,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,12284524386,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,420004332,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,3206191478,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,748585200,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,764902807,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,,,7473657104,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,2168138253,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,49460966,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,748465555,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,26794068,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,72645744,,,0
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,9669381,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,6633039694,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,716505132,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,1239774109,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,529625379,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,,,501696288,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,187799208,,,4
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,,,2512275,,,4
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,172650177,,,0
+H4,2017,2017,2017,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,287071302,,,0
+H4,2017,2017,2017,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,103712803436,,,0
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,711894531,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,,,2066623157,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,,,2264032617,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,2144275834,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,114062777,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,106534166,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,476034696,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,333201518,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,582253967,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,,,454271688,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,487327190,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,250531493,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,121197187,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,3964904,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,722370079,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,462001670,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,,,478688741,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,975476867,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,,,2147683581,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,,,739445529,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,2710870297,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,,,9797750341,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,1745700484,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,141433912,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,,,648569743,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,,,239879005,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,35362905389,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,2047364277,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,10576287128,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,32714026730,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,,,369092427,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,3526120097,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,5853738654,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,2288545259,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,,,552150463,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,,,111004003,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,309661107,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,6376770661,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,11892715108,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,2809955772,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,489491427,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,1132826187,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,46417940,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,,,534704324,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,6259703,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,7508040,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,,,841440535,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,3045324682,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,3689229746,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,31321594,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,484333059,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,176789578,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,49202430,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,712586159,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,,,417617001,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,374418194,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,323966846,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,192915445,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,484366670,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,126258332,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,,,3559719571,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,,,4470525419,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,,,1048242893,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,,,2158212117,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,226065170,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,19777544,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,48259004,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,1152663415,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,,,597192552,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,,,1249908079,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,33180458021,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,7005197976,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,5335651871,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,1876720372,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,1209035452,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,2844392757,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,,,618261816,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,,,171290930,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,23550768,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,879015865,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,,,1045357795,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,1172048082,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,65387356993,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,28458544609,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,395282377,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,53731073134,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,20981530010,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,1192696607,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,18010277271,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,1091309857,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,133284376,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,1288905742,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,3985953070,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,2199951043,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,739253036,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,6551025485,,,4
+H5,2017,2017,2017,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,8925942143,,,0

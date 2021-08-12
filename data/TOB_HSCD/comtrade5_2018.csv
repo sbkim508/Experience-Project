@@ -1,0 +1,967 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,,,14404343,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,,,364164905,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,3872948,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,12641628,,,0
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,7101111,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,731891236,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,59627251,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,5389688,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,42024750,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,9477908,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,2712401,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,709366,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,6222216,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,761533077,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,46836938,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,414772751,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,17284196,,,0
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,56493282,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,,,148125260,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,1156552796,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,43303053,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,1939836,,,0
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,14494121,,,0
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,260293335,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,2325861,,,0
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,4462,,,0
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,16117,,,0
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,3073528,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,586931150,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,3178030,,,0
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,6970311,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,6967050,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,,,601360795,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,780217278,,,0
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,6173848,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,98366,,,0
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,,,237614433,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,1887143,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,9218695,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,8002418,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,304008473,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,4536531,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,,,106429457,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,6956028,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,245681263,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,,,6230771,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,65035495,,,0
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,57950082,,,0
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,,,112308842,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,2439199,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,,,257356,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,27727903,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,4040065908,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3626402758,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,84243341,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,5765000,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,96728680,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,87562,,,0
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,549650134,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,178530,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,380230690,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,1,,,0
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,42560918,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,554183,,,0
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,179999546,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,2598977,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,102873623,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,345958,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,,,23138476,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,150,,,0
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,1032072,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,,,8246049,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,,,645902,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,144712960,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,769182,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,808459770,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,59812103,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,159419198,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,229751176,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,46691247,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,7086147,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,,,25796175,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,,,150431446,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,1369164,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,929,,,0
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,,,38392331,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,203209309,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,2227214,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,747761,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,,,703012,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,,,842035,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,2388850,,,0
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,298973288,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,11048338,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,8730054,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,50145967,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,,,643251,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,449280,,,0
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,9030798,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,32213,,,0
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,186849868,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,12524904,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,849425,,,0
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,328632,,,0
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,192317997,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,2610706,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,933324218,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,10516685,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,64771137,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,1147787,,,0
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,,,6701774,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,,,85606,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,181474250,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,4503048,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,45627617,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,1227775,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,76085171,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,31116300,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,,,54763908,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,,,853386639,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,,,33615049,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,,,3262609534,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,34772679,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,53786194,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,91572712,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,,,383260173,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,4635070,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,12237749,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,4088041,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,2633938,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,3229228,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,12870395,,,0
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,72100243,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,3070944,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,112619859,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,12314,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,,,84940794,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,1346204,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,,,4876205,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,,,942150857,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,971564187,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,260653102,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,544872106,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,29410737,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,18509549,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,828667515,,,0
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,23638,,,0
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,700,,,0
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,121969146,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,,,16982845,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,,,1153699,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,24696228,,,0
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,2091140,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,25856356,,,0
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,1715219,,,0
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,33111,,,0
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,203620,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,25491,,,0
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,,,38086288,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,126075,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,71836779,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,2509571,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,,,1812957297,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,,,148429741,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,,,1242724391,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,,,151046640,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,,,61008699,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,1393232881,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,2317215813,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,,,51296770,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,,,166664057,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,4567140207,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,9588863472,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,197594058,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,5148310751,,,0
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,2495484918,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,3492763984,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,101473078,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,1135667030,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,4873689968,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,10006464858,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,212614371,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,10187110644,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,530397810,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,703002539,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,,,48826132,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,,,386221791,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,2496385106,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,10743868772,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,,,13328002,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,46047357,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,2781261625,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,7843350983,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,79587377,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,281930803,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,7248270749,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,7010147553,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,315869211,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,2240325280,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,1780051921,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,1301899525,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,120154578,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,6626604,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,3372353835,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,706929677,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,252872447,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,13275372,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,915807661,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,859124230,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,50970128,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,22177736,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,4293042712,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,3647786183,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,,,87593028,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,142077517,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,169829075,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,140916980,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,24256883,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,6063756,,,0
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,82639744,,,0
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,33738723,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,,,757640,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,1936413,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,5665238759,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,4980242647,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,280208633,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,141060453,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,1803863686,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,1960004485,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,125862564,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,248119591,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,1085572160,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,1869819720,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,288192565,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,115145001,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,4832778657,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,5227292630,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,207691333,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,56712442,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,2829247491,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,5661420328,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,363784985,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,1291374807,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,3315189843,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,5976950326,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,229257670,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,225199952,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,2787170166,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,5378856357,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,702020741,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,875916788,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,4354849242,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,6163127432,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,448680900,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,1405816782,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,3647210304,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,5324679338,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,765568426,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,295086712,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,1124246575,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,1472802841,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,164900658,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,56140455,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,1595946554,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,1332273568,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,,,192860838,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,,,41861528,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,2861768034,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,1426436358,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,1977693,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,3369579,,,0
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,93969901033,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,81363413445,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5303526209,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,742566982,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,3311364993,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,4557949300,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,472897745,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,14882742,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,14479015677,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,21066345016,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,,,339904317,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,,,118872526,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,16695505679,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,28500322034,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,,,1008869678,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,,,319239698,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,760632630,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,2012688549,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,541824032,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,5131075,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,2805811451,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,4519828912,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,,,270504771,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,,,49407606,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,3688590468,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,4031188466,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,464565857,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,143448850,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,2142047347,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,3154010452,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,255887326,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,41553492,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,1250939496,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,2389523889,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,114868388,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,772821821,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,64640368,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,67510702,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,,,13931184,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,845450,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,721212927,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,1332028301,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,,,30329804,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,,,4933901,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,8918556664,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,11803373109,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,,,450734155,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,101075669,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,16086946157,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,26141049113,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,1611557560,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,356202811,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4794976750,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,4532809165,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,495705104,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,49070062,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,284015230,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,423154472,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,,,4230349,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,,,260731923,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,2136782286,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,2245590776,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,,,217707650,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,22927928,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,31766354,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,116170206,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,,,12491115,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,,,23850478,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,3981672729,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,1673081662,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,,,281528114,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,3629700044,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,13778839,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,5870839,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,3210590,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,177911,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,77531898,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,63545635,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,5601881,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,,,380263,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,1744065540,,,0
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,1367907256,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,41140019,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,637703127,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,5576210133,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,5611034513,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,731804016,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,340084079,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,1085009275,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,1809096562,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,,,202177443,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,,,36526820,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,5036540,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,733389,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,2565805,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,226376,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,82758037,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,36027988,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,16612665,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,404990233,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,216464088,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,320111254,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,19071313,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,,,4003232,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,75757757,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,74529463,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,,,14148060,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,952693379,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,1179188206,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,341604682,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,264391348,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,546135089,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,716423144,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,372715314,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,1297205057,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,90443616,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,121920491,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,402276764,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,683876766,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,211980743,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,179898328,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,6910793885,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,5346483837,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,6899016017,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,5088837252,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,1828345222,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,1279387665,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,4684419474,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,3873413964,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,296902417,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,364580015,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,101595133,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,105205955,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,101221829,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,93445987,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,1392291265,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,1230767024,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,938756451,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,727885323,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,1660788817,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,1339471988,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,885911766,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,836350094,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,10901976266,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,13858644470,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,7916265928,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,7806767616,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,2194882335,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,2409819226,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,818952546,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,765930643,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,6001628533,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,5488788198,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,75567472,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,155663920,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,895556290,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,1051316165,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,153623596,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,144211009,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,320715774,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,296224131,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,1768481844,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,1639079054,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,1659432150,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,1213793214,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,62580226863,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,78080378447,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,66394806980,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,58690636172,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,805732,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,405734192,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,277750365,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,1468196476,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,,,15118868,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,29723818390,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,26323437626,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,132231993,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,,,186773967,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,,,2598789605,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,2012620720,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,423843325,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,186521290,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,1367703637,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,3404055867,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,,,199992676,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,135471783,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,25306686183,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,32240623118,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,5194183,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,3238502,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,793656350,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,440022440,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,,,1280811,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,142190,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,156896659,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,226267005,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,232474339,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,42505732,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,123171529,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,,,5024324,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,7235553999,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,4933716408,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,22106629,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,,,6901088,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,3158775584,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,3037632059,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,138192409,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,11842083,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,1195533366,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,1574820082,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,,,133516,,,4
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,,,39853,,,4
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,401225111,,,4
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,145301503,,,4
+H5,2018,2018,2018,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,16472947,,,0
+H5,2018,2018,2018,2,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,25578403,,,0
+H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,255111980,,,0
+H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2515472954,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,24729440,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,9136114,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,18677714,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,5232403,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,132213173,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,28671608,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,167550797,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,4523510,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,438015933,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,11673340722,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,249954659,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,958739053,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,157487023,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,89556593,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,268388404,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,123491452,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,70482663,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,47630119,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,32553437,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,,,5451188,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,260366871,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,4079533,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,43323031,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,18183329,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,450234797,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,2129891,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,84416464,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,639799650,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,801064266,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,6635330,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,122067599,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,3061443101,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,212532132,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,3809782,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,42811009,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,813132886,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,200000355,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,1022411,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,1448044239,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,151696865,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,337277290,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,,,9003874,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,,,66793907,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,29886593,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,307910637,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,7809842,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,211490071,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,160086048,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,17246294,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,74822,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,16177264,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,16417576,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,3304313,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,1617,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,16958193,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,42420575,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,937268573,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,225470568,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,475869050,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,455634350,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,202967319,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,59698356,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,90345587,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,366591957,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,178770163,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,6042796,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,,,184500424,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,36660483,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,217482950,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,48256420,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,59080671,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,,,267324318,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,586889196,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,50321985,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,160105283,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,155808357,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,279029169,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,14524651,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,93303309,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,587018845,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,743739051,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,200036953,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,319052054,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,75127026,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,864389577,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,122741855,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,206760814,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,121674344,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,918439522,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,400176723,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,762492496,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,1849809109,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,414924434,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,1487003,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,23045170,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,3057606,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,320784661,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,462206881,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,,,182892959,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,340397890,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,867216360,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,215744356,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,138020940,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,17843023435,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5535132295,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,76436482081,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,6856221610,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4267875812,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,1729997375,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,680974031,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,465257780,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,374479030,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,985753805,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,,,1191199744,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,,,653558545,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,21490272,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,2388031073,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,934991452,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,871987127,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,54681742,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,98506866,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,,,34646069,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,,,519630838,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,,,31246883,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,488248836,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,132739640,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,311944619,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,167953289,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,693424446,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,43819528,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,463030670,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,81504078,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,437674269,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,83885241,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,,,267565493,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,47350660,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,78285133,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,24701696,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,119118854,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,4570625,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,94071540,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,7809709,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,41146895,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,33196073,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,31529681,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,248040,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,40951596,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,438734,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,867701964,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,731409027,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,,,798841943,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,54813297,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2586402675,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,499123779,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,2248931667,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,526421956,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,760442618,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,93708236,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,765173777,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,78405862,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,30760728,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,39515789,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,7153838,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,12368864,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,306450593,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,16264916,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,141878323,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,11374002,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,17003310,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,40014130,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,138554,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,8404563,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,,,1559749116,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,667552970,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,,,280053762,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,119321034,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,2227517,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,76194,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,2227459,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,87621,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,10088173,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,77353,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,1107560,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,88700,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,,,61914061,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,280117533,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,,,112801679,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,4192004,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,959065587,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,488553806,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,,,775315360,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,,,101394783,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,445398837,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,85343343,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,,,114625849,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,50740581,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,1050791,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,40611,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,2889047,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,415820,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,91260568,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,41176660,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,37172640,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,231022850,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,,,17002871,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,4223936,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,350742463,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,37858408,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,2588275,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,4552723,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,,,424398,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,1259092,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,100804,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,85487256,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,5655075,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,42736944,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,1351265,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,239925043,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,5086696,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,60593191,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,9039168,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,20101450,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,1643074,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,199345082,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,58328333,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,,,68207738,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,14662103,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,192209060,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,45597274,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,,,69799630,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,69690435,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,,,101782122,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,79893523,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,98638819,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,877560,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,26284831,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,949043,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,,,11474834,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,,,1628477,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,16467671,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,1148551,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,24531257,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,3109459,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,36554962,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,17474448,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,58651542,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,23256600,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,74116611,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,476504,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,20980124,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,1095010,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,20097466,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,2214859,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,,,140736595,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,52710428,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,582900376,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,,,77990003,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,1160228033,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,64449170,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,341768691,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,905643502,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,,,596135908,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,,,104541081,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,1252655751,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,34118849,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,412703036,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,56805887,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,270081254,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,50258574,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,400498389,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,48472542,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,133886546,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,27955946,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,,,298604105,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,,,29145831,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,713774408,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,20294583,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,457745376,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,26155738,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,,,43136914,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,,,9271186,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,73417294,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,6171830,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,23031964,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,5352132,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,13722730,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,1048255,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,9778377,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,126639,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,5011901,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,53961,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,9228565,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,1419782,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,22363253,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,476796,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,8027486,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,10692,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,150413746,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,33289440,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,481023000,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,56738949,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,76897631,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,24831881,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,,,146906623,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,,,7008085,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,274971134,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,20618123,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,245307561,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,126688904,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,,,259493177,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,,,20746150,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,435864143,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,75256975,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,208390595,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,91539242,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,,,247449228,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,,,508750421,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,263866537,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,443500203,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,35252056,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,7495693157,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,352759417,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,423203065,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,891413494,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,1304567196,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,1764986173,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,167889678,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,842333882,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,164905243,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,4808488368,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,692659405,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,995351528,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,,,124987498,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,127167762,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,77752595,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,414542920,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,,,294464383,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,47395332,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,,,2303525509,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,4414809,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,52953,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,1838559654,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,1199094582,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,3837547,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,22436,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,275963111,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,866273461,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,1413382569,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,4428457498,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,,,190759042,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,32139927,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,1556847,,,0
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,3922271,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,29311906,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,3671095,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,13720820,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,25194499,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,46269700,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,2252531,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,13454579,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,602666693,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,6409548,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,865504879,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,26153639,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,767713,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,1706196,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,400367,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,1070150,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,356071573,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,,,7545230,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,,,1238848,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,133213997,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,339358127,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,4958622,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,11398973,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,,,185743324,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,,,38775805,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,379813156,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,71681229,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,240078801,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,10146652,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,,,206282673,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,,,32694343,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,319955536,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,47797446,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,150294560,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,,,39194495,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,,,6043017440,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,,,1274095771,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,,,11516063201,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,4450899072,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,5277625885,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,279080506,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,,,3531349621,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,,,796804042,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,8086724923,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,2670398694,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,,,4173266368,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,100318126,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,,,91528274,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,21069225,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,312108325,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,49001210,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,235882500,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,,,2790319,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,,,6266053244,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,175384852,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,10219000699,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,966437557,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,,,3677261097,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,100863016,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,,,871684772,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,,,85595608,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,1777171357,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,635280009,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,39788367,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,9190377,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,251247206,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,99098270,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,1534552318,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,1236308239,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,16144577,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,10976847,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,,,1237318155,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,,,631119378,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,2744954892,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,1395712960,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,768142757,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,21006838,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,69963575,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,8018315,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,93008608,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,12478850,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,33575101,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,2092070,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,,,23530659,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,1120198,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,49948017,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,1117107,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,23106397,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,1518338,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,,,49907406,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,,,7377559,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,117707633,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,312792264,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,9220848,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,5518965,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,873852910,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,97515908,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,3056557418,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,504447411,,,4
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,382734097,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,21711216,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,451465447,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,38186857,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,666759513,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,60209439,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,405275434,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,22442744,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,,,170710294,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,,,16426620,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,264217303,,,4
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,5673952,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,,,220943040,,,4
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,94623098,,,4
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,,,48483075,,,4
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,,,29132628,,,4
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,74043607,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,44069866,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,2359902,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,1255788,,,0
+H5,2018,2018,2018,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,421194441,,,0
+H5,2018,2018,2018,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1349015587,,,0
+H5,2018,2018,2018,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,914499024,,,0
+H5,2018,2018,2018,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,4615627613,,,0
+H5,2018,2018,2018,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,166793,,,0
+H5,2018,2018,2018,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,171721,,,0

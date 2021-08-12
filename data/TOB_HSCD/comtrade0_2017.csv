@@ -1,0 +1,957 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,108522864,,,0
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,1,Animals; live,1,No Quantity,0,,,,,,128733708,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,268917516,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,567623824,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,10492561,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0,,188848913,,,0
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0,,546792953,,,0
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0,,1109214695,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0,,1554517164,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0,,339645373,,,0
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,98104154,,,0
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,,,878240878,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,353808540,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,1435126773,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,1360641044,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,1409897021,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,,,1038389773,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,992429488,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,4070104852,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,580156327,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,,,2441854,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,,,92619885,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,112029884,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,167619239,,,0
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,191974496,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,22669361,,,0
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,,,110191379,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,380566949,,,0
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,366345248,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,46285061,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,450443611,,,0
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,291621647,,,0
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,685342360,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,,,2043727166,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,603618902,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,175534860,,,0
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,892216964,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,1222518602,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,2269845716,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,737144537,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,423771097,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,715776006,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,567579918,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,656825041,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,125696818,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,2751206985,,,0
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,163395485,,,0
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,541185621,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,1919685169,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,2024972931,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,,,22463982,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,118010026,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,124185773,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,456448503,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,643459018,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,172065386,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,,,301160315,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,473474412,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,1552383700,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,286251237,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,19638768,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,99128507,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,62038794,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,83706126,,,0
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,,,114335107,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,4998991,,,0
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,7920408,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,4190449,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,17543814,,,0
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,2376731,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,899238523,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,,,603961281,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,538516920,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,1950586844,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,1077264106,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,31156607,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,795260864,,,0
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,494512813,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,1010548883,,,0
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,66573861,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,1034270750,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,312424852,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,316602304,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,939255367,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,83051583,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,82478666,,,0
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,759779054,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,578082589,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,1915644002,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,359728768,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,190319620,,,0
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,1397838529,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,1100817128,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,1671558325,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,234565450,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,118492353,,,0
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,1004609667,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,897684197,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,1376954520,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,605664279,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,356236270,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,1671246777,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,880646754,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,1194741885,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,387341611,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,79058470,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,,,1866959750,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,792886166,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,,,2777415457,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,1593454697,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,482129984,,,0
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,783935063,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,783772643,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,1645912978,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,288103746,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,291702048,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,758974570,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,234709617,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,770344061,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,62302041,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,170560265,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,489966446,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,500738273,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,1051657481,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,,,755466722,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,5201253,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,922304307,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,1058674693,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,1851850949,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,,,1223750269,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1938239896,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,23647947666,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,12126759175,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,36681478267,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,24373514008,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,219834390,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,708448346,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,1080541811,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,2154240897,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,2104647814,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,564729167,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,,,2310981921,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,5913899762,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,22609953872,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,8736339847,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,1892866531,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,,,8037943271,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,6018320835,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,24433942832,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,6727103665,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,93512412,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,1413099944,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,223072634,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,847576790,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,7899087398,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,258214917,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,802807410,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,1025311441,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,1533717020,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,1222170134,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,272471831,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,1827754882,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,1181773601,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,2808739026,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,747495592,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,226201452,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,766472742,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,909879111,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,1355504009,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,518600678,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,66895788,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,266805799,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,256923047,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,541612313,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,475385148,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,5201767,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,,,156524719,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,34958679,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,22686073,,,0
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,24440679,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,24140570,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,,,107922002,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,98907854,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,283359118,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,130794748,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,633520937,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,2012580166,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,1708038271,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,4191279785,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,4236791468,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2042203642,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5364873085,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7184325790,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,12295836105,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,6929489848,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,491483007,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,3097567385,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1587297166,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3548879991,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3311597533,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,891159,,,0
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,,,57144240,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,404502615,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,71596612,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,50079148,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,63993330,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,,,1371006403,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,726584011,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,707076450,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,461075210,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,23170,,,0
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,,,33750945,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,24153998,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,12653481,,,0
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,4421139,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,428710073,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,1807013808,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,2798048767,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,2554120482,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,105922144,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,512744,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,,,29845798,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,15244719,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,13891852,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,5976568,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,1312144,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,27432315,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,19154334,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,20567021,,,0
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,7015460,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,63611989,,,0
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,199914169,,,0
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,,,748035891,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,,,418620088,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,190280995,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,723693285,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,,,2086466279,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,2249080621,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,3495781732,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,897936663,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,,,57428839,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,,,794318793,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,1006260172,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,645899572,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,176701973,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,400822,,,0
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,5304740,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,6435097,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,5949213,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,9802328,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,888359,,,0
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,47802450,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,61714422,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,94783052,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,11185766,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,27808605,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,,,62641831,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,235702319,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,214864558,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,234875467,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,12815853,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,20077898,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,13903007,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,,,148542322,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,17475448,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,226038938,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,,,251230729,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,183092645,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,607945610,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,1278051640,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,55441634,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,104044338,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,160259548,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,387376377,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,868375844,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,115821647,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,,,254591993,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,259375639,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,348422415,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,261000549,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,30897520,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,,,451552690,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,151329498,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,,,195412894,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,86764976,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,19132538,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,,,44892303,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,67402568,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,80416911,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,106256965,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,32238114,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,,,199076149,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,172272926,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,124862053,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,288973525,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,25703214,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,82043017,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,110686386,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,114790062,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,358598111,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,195860950,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,,,3183233722,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,3279430924,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,2254765106,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,738606045,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,285089548,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,,,3212402945,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,3107629084,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,2066177998,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,849389396,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,120791186,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,,,1386892839,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,674191762,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,672308701,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,217005195,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,215488743,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,,,1718492095,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,1784702027,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,1172274356,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,393908361,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,7638508,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,,,216193542,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,143791830,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,75596262,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,65619272,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,4161242,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,,,39447466,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,56693023,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,33902586,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,37118247,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,2353638,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,68428922,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,36322177,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,32855068,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,39167616,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,173314835,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,822708524,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,718643481,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,668415233,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,459777456,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,287949205,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,,,844581547,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,590985488,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,639745061,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,234133907,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,239793099,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,,,809317467,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,990933844,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,1650272420,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,499979934,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,35187234,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,,,6656462780,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,,,2598547687,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,14913087943,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,,,442167586,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,2412974798,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,1009604224,,,0
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,4466854724,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,9068874597,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,2051995277,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,2919745601,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,,,4175033475,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,4781562746,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,4201057248,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,2500493315,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,273828368,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,792195688,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,1682257741,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,3584222065,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,1443891626,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,1679059,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,55726402,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,500591640,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,242266368,,,0
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,109250479,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,489892145,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,,,1785785563,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,3512304886,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,2480973145,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,1487366186,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,4521335,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,8742311,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,108780833,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,122699285,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,175543773,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,20685570,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,64151079,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,478466372,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,721344887,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,104432881,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,2600087,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,12376127,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,95495064,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,143261142,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,5963319,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,2313275,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,88137876,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,434936285,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,,,246502123,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,180857051,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,174167878,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,,,877931406,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,1089976448,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,1035710943,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,650288472,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,210882026,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,,,985426116,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,967966579,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,1006912092,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,621728767,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,8011325624,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,,,29344858743,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,21915641124,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,,,26071148792,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,21852674855,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,3980461257,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,,,23239249764,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,15880658202,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,15042168984,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,22100768729,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,139909881,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,,,616015065,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,1347142292,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,207935523,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,288090051,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,3439656839,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,,,30459724228,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,19247579363,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,38776984577,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,12197019951,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,215080898,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,,,2173575270,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,1319124873,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,863131678,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,1773794816,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,599675567,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,6899412261,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,93054978,,,0
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,973875018,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,183172591,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,745715435,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,,,7971302738,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,4294286392,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,9103859757,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,5285705579,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,11741148,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,517450304,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,509475931,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,195407001,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,169300612,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,3910526,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,,,143940262,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,112323932,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,49020568,,,0
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,69960767,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,,,315444734,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,115853268,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,193758035,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,29144155,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,426729169,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,4570442346,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,3437626030,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,2934713276,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,1054058752,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,78487013,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,2529288074,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,1493670115,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,1111878034,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,525069793,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,111052555,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,,,710675464,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,497218612,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,875750144,,,4
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,340724169,,,4
+H5,2017,2017,2017,2,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,18761,,,0
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,,,158290612,,,4
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,216806677,,,4
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,144746661,,,0
+H5,2017,2017,2017,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,14516682,,,4
+H5,2017,2017,2017,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,15118973682,,,0
+H5,2017,2017,2017,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,55179033,,,0
+H5,2017,2017,2017,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3468899292,,,0
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,44056,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,1,Animals; live,1,No Quantity,0,,,,,,1242381919,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,188706390,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,591493150,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,1,Animals; live,1,No Quantity,0,,,,0,,357805599,,,0
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0,,372342,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0,,9000568350,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0,,1306937432,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0,,3575722977,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,2,Meat and edible meat offal,1,No Quantity,0,,,,0,,13953388271,,,0
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,9539726,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,1051697214,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,48198541,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,519671204,,,0
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,3,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,233645946,,,0
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,733149,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,1812112232,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,1383956890,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,3743039550,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,284026764,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,6148,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,,,253462218,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,60277147,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,,,127322136,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,5,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,,,551000262,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,1914,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,12876481,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,34571583,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,528743465,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,6,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,12705636,,,0
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,6012591,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,2357937472,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,159046965,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,2413862390,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,7,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,100822058,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,52607797,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,1407318024,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,290012662,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,1490147616,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,8,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,875761332,,,0
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,80852,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,51479447,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,167206495,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,375029496,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,9,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,5010001978,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,44722,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,5816662985,,,0
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,,,450682204,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,,,484642495,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,,,4980607185,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,183220,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,579723175,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,234165465,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,1017279617,,,0
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,116138294,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,7761963,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,2012077461,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,363452082,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,359703500,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,26008459831,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,6053,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,10930597,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,11209939,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,34791056,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,132898183,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,1056,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,88977,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,1398752,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,13975238,,,0
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,18645993,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,13504597,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,474516507,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,,,298778628,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,1692297906,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,1440717510,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,493113,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,129008692,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,505827741,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,958020375,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,1178009782,,,0
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,228351017,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,218128049,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,325716400,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,1069207113,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,11566378449,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,9197216,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,189746177,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,467895885,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,2668752253,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,364294834,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,6852699,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,958034151,,,0
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,1116254530,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,3101959609,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,202916323,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,1718774,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,136836041,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,723969639,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,2788743168,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,2273080226,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,910270,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,1576347752,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,844458895,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,1779920619,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,1141415664,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,13746428,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,2308787084,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,2750566321,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,3102603228,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,972686501,,,0
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,98625,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,464316248,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,825223114,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,1843933116,,,0
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,5394735732,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,17783,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,52056125,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,156206,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,519891955,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,2092160545,,,0
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,56009372,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,1109796699,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,387908771,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,1054356671,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,,,681773044,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,,,2314078,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,56642437582,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,39184070,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,206765577,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,,,22397926893,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,33822732721,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,48904964347,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3055792256,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,21504699748,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,18723140870,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,382935868,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,2050254369,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,963093182,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,2799000438,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,3852040935,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,,,56279989,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,223306816,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,3366268859,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,21183009744,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,2366033066,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,5198216,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,,,2529698120,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,9083382603,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,28481301264,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,1247232937,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,327040558,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,212910981,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,313901148,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,1548375086,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,188669896,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,249683,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,739952196,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,730821500,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,2579031547,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,344431865,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,1552220,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,,,730575025,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,449000792,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,2483004794,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,864292198,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,234958,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,210058079,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,553139851,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,2207605155,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,308229396,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,23854,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,169027118,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,279614534,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,634796892,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,459939784,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,,,29006973,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,57688545,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,33636447,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,59955265,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,1374,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,,,16047045,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,29052999,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,797486507,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,31059119,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,2413435,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,361958534,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,1866072366,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,4460002443,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,907229242,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3863437,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,893214170,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7314314374,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,19184411988,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3546442138,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,207302,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,235860054,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,708782795,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3292539467,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1799873755,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,14262112,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,,,744735673,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,645632197,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,137649921,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,1899502493,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,59972,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,,,78382963,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,276663142,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,687932933,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,65091531,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,,,7702986,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,15721839,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,5215937,,,0
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,41975931,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,3020,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,,,1607269412,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,4694328035,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,2162964335,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,2779919921,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,4651602,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,,,1140073,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,7586892,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,4220322,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,,,285384,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,245,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,388805,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,4621245,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,8224211,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,567623,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,,,12773432,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,213649044,,,0
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,,,364541519,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,337801301,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,6355348951,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,7060710,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,796403747,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,4652578968,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,3089942368,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,1913081961,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,240371,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,,,212382500,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,480428937,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,891434494,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,46106195,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,894876,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,4609792,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,3943611,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,33025622,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,1600082,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,,,2821572043,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,75501469,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,104798025,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,28746600,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,39277,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,1332026736,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,317624078,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,222876564,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,1496816149,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,,,721080,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,8569044,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,263453120,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,45734135,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,153398,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,21188701,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,98940108,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,464262249,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,100075717,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,1247925,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,,,11176378,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,1235294828,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,738431457,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,55276594,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,261653,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,,,40444915,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,233735254,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,278442778,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,178567861,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,100829,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,,,36905117,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,133012417,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,1649822786,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,14592144,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,448927,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,,,3288576,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,107030412,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,211221393,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,53572606,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,817,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,22183258,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,234933022,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,457065579,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,85402535,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,5795665,,,0
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,161822460,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,133651482,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,55993697,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,3658,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,,,71981364,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,1446351695,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,855193184,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,84631626,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,13442,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,,,102950911,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,1214693545,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,925231100,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,54668999,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,166583,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,111587267,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,363746991,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,522912845,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,65007574,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,71745,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,65181386,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,864976223,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,358317863,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,1278009417,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,4219,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,10918148,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,90094264,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,33288297,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,4833549,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,297,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,1187948,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,46728386,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,22929877,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,361353,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,125,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,,,1556001,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,37268433,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,20516431,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,279981,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,5021006,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,59056305,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,956028348,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,840382873,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,1139027288,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,328457,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,,,54226928,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,370868582,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,456948795,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,467926849,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,31172115,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,,,64657538,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,1047986417,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,1908971843,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,275976106,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,,,1100,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,,,14841684629,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,1446232286,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,17592221494,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,3306017689,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,9372485,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,1232051131,,,0
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,7264232324,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,13518352359,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,10761291671,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,889328,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,591373231,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,5283351844,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,4007613370,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,1490808676,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,521174,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,2579616864,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,1447792721,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,,,2207066481,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,735677736,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,952,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,,,57845637,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,309600760,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,111547934,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,55325692,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,208517,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,3108334730,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,3930816238,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,2499095351,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,974459126,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,951180548,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,54437706,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,360287525,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,52559916,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,122369,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,1283429398,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,208108194,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,425617927,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,222577632,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,5833901,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,36353157,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,235197908,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,180884776,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,,,196500900,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,558796899,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,117105144,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,154001548,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,598246,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,,,131997776,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,903747179,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,954700744,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,418462642,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,69515,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,,,93073300,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,2403500556,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,415017080,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,187611564,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,42139067,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,,,4557240320,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,28762322241,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,20854390716,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,13227951789,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,17610750,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,,,2979923688,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,16270257935,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,10293981858,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,3422396095,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,1247,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,,,51817134,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,1367598875,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,,,180873499,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,143053563,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,153310,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,1820202231,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,16371357251,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,34278996840,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,14724003843,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,1560725,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,1486834930,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,1679161551,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,1375278024,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,4045347163,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,19341920,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,228042802,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,99145882,,,0
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,283630629,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,28663240,,,0
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,1524189,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,,,3057939189,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,4390928661,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,9053250500,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,921485176,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,1747,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,102168685,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,372410062,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,165229470,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,4424210,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,,,9138366,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,59052701,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,42632407,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,4347510,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,,,39772407,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,517096808,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,458488632,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,475964226,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,352467,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,217189970,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,2379599603,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,,,1762671674,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,712275720,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,8338,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,,,300227222,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,1361273018,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,710981933,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,27204929,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,3610085,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,,,58229356,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,244808815,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,1130493552,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,192757792,,,4
+H5,2017,2017,2017,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,648,,,0
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,,,73860999,,,4
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,181733862,,,4
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,199718387,,,4
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,187726488,,,4
+H5,2017,2017,2017,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,34441560309,,,0
+H5,2017,2017,2017,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,118206533,,,0
+H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,8273255569,,,0
+H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2669848248,,,0

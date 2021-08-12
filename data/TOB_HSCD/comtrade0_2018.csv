@@ -1,0 +1,968 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,11079752,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,620567565,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,310782445,,,0
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,13276200735,,,0
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,1307220831,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,250684337,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,512989566,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,235971218,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,254688641,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,,,626092340,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,51422954,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,12534328,,,0
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,429136987,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,113842972,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,711636559,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,904987672,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,114477677,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,4699891292,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,2210021223,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,4503645570,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,636873065,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,87600398,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,274344664,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,33381775756,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,145190253,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,133706205,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,2627700,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,13059251,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,1113155792,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,,,1402707885,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,75109398,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,1022713690,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,82021911,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,6671771151,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,386333876,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,316697303,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,246943431,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,199426781,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,567651426,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,2482130050,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,403215313,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,1075021513,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,1478342985,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,1047945367,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,306915825,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,7095267310,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,60970137,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,1988094739,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,,,950351192,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,701194243,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,,,1171156228,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,23670264508,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,29132131854,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,29609240275,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,2470862380,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,4186910927,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,10982674578,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,,,2241549610,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,7443801646,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,1186678378,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,9304256321,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,,,195604158,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,1312308726,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,357606914,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,753460223,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,874149558,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,567395220,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,283068494,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,477582777,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,445095075,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,33620770,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,58269774,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,123233046,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,27815244,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,4996068637,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,946205350,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,7708213697,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,3347797497,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,3352395921,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1717177153,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,38910352,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,1442564971,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,475601802,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,44958022,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,4446825,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,35382631,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,109366361,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,3144066279,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,8479269,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,332315,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,7807249,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,623379,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,,,189759832,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,,,8283274935,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,944240280,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,1995916364,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,171759172,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,62413624,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,11089859,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,33743447,,,0
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,10528653,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,33023143,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,195993453,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,1832591612,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,29400061,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,52252293,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,1399585439,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,93351258,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,913226603,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,45885132,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,275191783,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,153098618,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,97669029,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,13352232,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,95009898,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,42393038,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,300989971,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,79398966,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,357163570,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,50928445,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,910860204,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,85431904,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,943781230,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,52939114,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,269417380,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,,,367139641,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,,,1321890650,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,,,1924724587,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,5109384612,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,,,2232536995,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,4922647087,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,,,649741686,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,415834806,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,,,153564671,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,,,266065486,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,,,422386435,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,423659991,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,,,3134552937,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,4087333764,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,,,4786630102,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,684826694,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,,,1589367808,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,629872868,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,,,932812359,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,7191319195,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,,,282694411,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,914127373,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,,,1119370826,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,7587046813,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,,,171437132,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,56260767,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,,,14581458,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,2954205,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,,,992967103,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,3333476656,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,,,1446991119,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,908187351,,,0
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,,,1098698659,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,974311790,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,,,1552155706,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,1509928072,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,,,3038027290,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,3761073928,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,,,2349282844,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,1899419780,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,,,2865283404,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,1792337643,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,,,5075252320,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,1045868769,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,,,1707762264,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,2455196309,,,0
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,,,133982139,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,,,191640595,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,,,1106879122,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,1512454284,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,,,3205593762,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,,,7870844791,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,36720190798,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,99679291597,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,4398776286,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,3590412263,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,,,6809543597,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,4087511115,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,,,12555198819,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,,,7890968450,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,,,1373825601,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,5523713353,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,,,2340608269,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,1043325907,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,,,3824011725,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,2187418931,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,,,2388914531,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,860568090,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,,,911170803,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,245244934,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,,,227979142,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,,,221448450,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,,,99992223,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,,,17066832,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,,,5469711376,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,2597306543,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,,,16996564649,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,13612306095,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,6466419869,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,,,3295314741,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,,,74972052,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,,,217868048,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,,,1757273152,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,,,231622553,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,,,285059820,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,,,338055453,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,,,3082710660,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,,,14280979125,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,,,24133673,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,3236261,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,,,35655183,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,35898600,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,55620142,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,408421502,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,1134784686,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,67347658,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,,,4619569,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,35055794,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,226716,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,39573225,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,803483,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,472616445,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,1027486103,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,277535407,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,584283305,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,588233682,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,258242605,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,592466804,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,3346156204,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,2588103480,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,11781499625,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,2870900655,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,1671734439,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,1663562655,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,855644128,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,152000944,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,52271508,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,2078401434,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,884394478,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,175546218,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,37260437,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,132971547,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,246611195,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,8115497,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,195737292,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,242121770,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,166593527,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,673660753,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,,,410074449,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,834885425,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,212520978,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,24815128854,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,14331248023,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,23448710217,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,3456146273,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,174586892,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,87071881,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,15574855653,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,12607793155,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,2058563226,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,3971165827,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,4050930488,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,41254385,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,6092711227,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,1000430866,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,176944613,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,4152828,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,82702200,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,4604125,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,78749969,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,342797173,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,1172202991,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,768564571,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,581583216,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,28090290,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,,,370661549,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,182636488,,,4
+H5,2018,2018,2018,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,27320018,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,325933980,,,4
+H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2222184357,,,0
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,,,16882813,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,,,8488213,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,412936020,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,544085686,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,1497910059,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,967501641,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,11018798343,,,0
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,867132281,,,0
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,75743996,,,0
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,5907535850,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,11605738281,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,13257219849,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,314252419,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,152811730,,,0
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,5601464003,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,589533940,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,60669778,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,46352786,,,0
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,729224615,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,,,2533416528,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,,,36648729,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,53959125,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,292745391,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,379741286,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,97207529,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,117075322,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,2037900267,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,10518060973,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,238239898,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,6341177272,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,8680370505,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,5284633015,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,136370496,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,8319549,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,632320291,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,3285918315,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,810012057,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,100896931,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,5793074108,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,950004200,,,0
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,145224740,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,140723018,,,0
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,1180576191,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,791928355,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,175778296,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,427054029,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,43371567145,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,2714272057,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,27082886,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,109780760,,,0
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,571949,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,25741813,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,669691407,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,270358814,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,234129963,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,439832302,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,285804184,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,30588235,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,146472225,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,23423827,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,221231080,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,173343954,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,269577916,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,655867926,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,440952306,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,300467879,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,462027346,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,2034581826,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,970406854,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,452650682,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,34965430,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,86165630,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,319110067,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,204715189,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,377154260,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,21210039528,,,0
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,12299218601,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,666181019,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,897473751,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,2247765969,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,1067412946,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,292528241,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,1538947686,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,169491574,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,454543976,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,512648031,,,0
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,349832510,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,31490434,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,891699928,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,98292257,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,327528279,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,19910922,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,153674693,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,31241479,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,61959625,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,50402977,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,,,39926023,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,2298605,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,903274124,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,134830181,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,2599263893,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,460653188,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1319975946,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,339912269,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,9807074,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,31623698,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,,,334086396,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,,,32158064,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,435975,,,0
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,135998,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,321741911,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,2609892892,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,46293223,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,12799166,,,0
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,4179164,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,34325,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,,,419931996,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,7512092462,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,20479261,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,3614692172,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,,,5667990723,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,7974466460,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,957518836,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,542543087,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,,,2249682634,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,,,807974243,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,142627820,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,20332684,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,,,5615290,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,409897,,,0
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,503976,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,52722,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,,,89830250,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,22331063,,,0
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,9581314,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,48358884,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,,,110729362,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,21237134,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,58301975,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,15145764,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,,,22042753,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,9960336,,,0
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,4173000,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,872067,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,,,503330173,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,319781952,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,105593492,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,19617758,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,,,318763063,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,62771863,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,238465219,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,69718022,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,,,707258359,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,219091353,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,173345335,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,17362249,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,,,774156579,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,,,147936840,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,,,106643970,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,,,12798667,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,,,124834610,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,95883396,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,19993330,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,1263574,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,,,490597682,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,519000152,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,97240811,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,10253748,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,,,193602578,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,80654192,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,45907389,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,21998772,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,,,5079593786,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,,,495198093,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,1494203798,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,161414180,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,,,4595775507,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,,,849542733,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,,,1606077746,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,186323135,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,,,1429173749,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,,,427893837,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,527959939,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,73128520,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,,,2518700976,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,,,267566604,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,1211638893,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,,,149381834,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,,,357839362,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,74528399,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,57567156,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,3739810,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,,,87658857,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,6011645,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,11022632,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,1975589,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,,,105956483,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,,,21934181,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,16022498,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,2650809,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,1785289374,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,1219287305,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,154014081,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,16958841,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,,,1093644210,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,,,158530359,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,374108299,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,13180462,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,,,2609282198,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,,,605824463,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,210920894,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,50408919,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,,,8758881946,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,,,17643410801,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,84545832,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,1033958329,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,7928843937,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,7271581136,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,1579243451,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,492056985,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,,,10809633206,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,,,5434162316,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,1425731178,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,269384079,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,,,2498190546,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,3566584425,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,99703387,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,18100534160,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,,,472994632,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,,,3159803439,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,4118408,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,,,172115,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,,,4490587473,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,,,10007505167,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,442093845,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,161514358,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,23794866,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,607353965,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,4632407,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,34702795,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,,,85141181,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,1847252713,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,37119403,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,1663113,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,,,62279350,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,34968554,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,6539166,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,127149,,,0
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,,,637617300,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,830015476,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,12975057,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,58674815,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,,,2168267851,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,,,790162510,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,352866426,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,40134780,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,,,2576256048,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,,,1459457806,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,265956156,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,42930953,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,,,68972560910,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,,,34473567972,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,8835596525,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,587748723,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,,,44921560045,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,,,13378852587,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,,,7442519792,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,,,354199830,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,,,1505463530,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,,,220741739,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,,,146057673,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,126158136,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,,,75396230573,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,,,60463866812,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,10378823240,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,,,762954717,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,,,8392429547,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,,,10655930285,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,145885141,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,,,20041185,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,1727585161,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,253716797,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,149282968,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,74352482,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,,,12602893809,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,,,7049064443,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,,,1421864087,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,,,54415314,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,480040769,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,104761883,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,81552124,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,18198191,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,,,221838981,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,80040183,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,,,44243772,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,7504539,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,,,372957908,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,,,235693502,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,15599636,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,193359,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,,,9343273473,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,5776202660,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,888270857,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,39594527,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,,,4457699622,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,,,884819761,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,720057514,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,69064496,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,,,1474434207,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,,,759346101,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,265403672,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,,,42069527,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,,,238860681,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,,,226903688,,,4
+H5,2018,2018,2018,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,,,7335439,,,4
+H5,2018,2018,2018,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,,,1447731,,,4
+H5,2018,2018,2018,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,9788883049,,,0
+H5,2018,2018,2018,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,20419185059,,,0
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,,,733262253,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,01,Animals; live,1,No Quantity,0,,,,,,147546207,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,6438960450,,,0
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,2537705004,,,0
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,,,3363319113,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,,,560510689,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,2292241069,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,1085952692,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,157904096,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,95386746,,,0
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,,,68692856,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,,,4697066,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,782393170,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,105061010,,,0
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,4398274069,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,2754356276,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,349320632,,,0
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,93538668,,,0
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,307138106,,,0
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,18662987,,,0
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,207908879,,,0
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,38931400,,,0
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,407361865,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,189751977,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,313884744,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,1528701210,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,74770016,,,0
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,15563488,,,0
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,143500647,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,127756049,,,0
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,9478257,,,0
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,2391598,,,0
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,8609592643,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,1092620431,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,214424503,,,0
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,46868849,,,0
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,392894594,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,10253045502,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,1317467863,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,145856254,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,1422213531,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,1828254342,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,328216437,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,101793761,,,0
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,786385723,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,403638357,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,397595204,,,0
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,199002158,,,0
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,6665158200,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,1976027042,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,1066315491,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,695474292,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,1399420657,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,8051120519,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,555585673,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,174202280,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,3254787058,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,3676668273,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,1671367857,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,844828844,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,6433892024,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,2369732540,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,3358723007,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,1221724565,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,3805129929,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,3116369511,,,0
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,189064713,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,85886057,,,0
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,1758782405,,,0
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,1405546618,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,995637983,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,1223374549,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,8015641240,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,3738519122,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,595272267,,,0
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,46906824,,,0
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,135914467339,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,1171065204,,,0
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,41341422,,,0
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,31560903,,,0
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,347782297215,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,46630492188,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,15766940878,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,682164306,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,10829462507,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,20183227097,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,556028801,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,,,560220385,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,67391000297,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,59795622765,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,668551701,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,247520412,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,27900028334,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,8866142344,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,,,2908108937,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,,,1519081357,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,,,2732283342,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,7027789220,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,10157250,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,1815456,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,,,5027414785,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,7782236841,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,847806996,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,595866047,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,12374999110,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,5633581180,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,6726907082,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,3416581157,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,4913086375,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,4128182530,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,450516837,,,0
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,275896939,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,3600361420,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,3059205296,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,458981484,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,494356653,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,139935872,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,996809473,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,14707955,,,0
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,7944941,,,0
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,2618858096,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,,,1131340003,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,,,176760223,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,,,196401905,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,18071689681,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,18141958734,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,1544146471,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,1539537174,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,74867229916,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,80135877181,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,9705541727,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,10040925731,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,16908807609,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,22276120166,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,795279129,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,567500784,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,4778305416,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,636252111,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,1359158578,,,0
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,1157434124,,,0
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,3319023835,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,29703611217,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,,,5172051102,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,,,4574161573,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,1038480648,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,,,4310069378,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,617517206,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,241058371,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,24914414554,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,14888330424,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,,,407975827,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,168086557,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,56025889,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,25549161,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,1411920,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,702447,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,15777833,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,1604037456,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,8355131,,,0
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,6293486,,,0
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,24011029696,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,131322923,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,19909402,,,0
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,171834299,,,0
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,6201171006,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,19460627620,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,1837898199,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,1323298982,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,2076359063,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,3883528825,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,1230339544,,,0
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,1592298644,,,0
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,53306899,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,,,1140489218,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,43339840,,,0
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,31708607,,,0
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,4197746357,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,2475896309,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,502569603,,,0
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,351638158,,,0
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,9890789520,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,15393581102,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,1352117657,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,1446064586,,,0
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,916880741,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,1398648933,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,41424215,,,0
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,48053897,,,0
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,3155488565,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,20499923882,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,676623341,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,679676758,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,2477538523,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,12692241685,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,537499801,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,489913318,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,1325561332,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,5742582236,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,247564659,,,0
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,280098628,,,0
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,136009524,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,2977667459,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,,,56028992,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,,,21894761,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,512443050,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,5073174451,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,643519326,,,0
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,1071305904,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,1811224132,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,8039745256,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,513276837,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,447114883,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,1638445709,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,18164493021,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,1938360317,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,2163607558,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,3387415671,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,73525494902,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,6121724868,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,,,6964200485,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,4173539388,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,71448038747,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,,,5801315417,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,,,6163819845,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,484756376,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,27848982821,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,337071526,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,276528721,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,4661493788,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,47135168760,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,3435508201,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,2823721831,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,99607813,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,4680177627,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,108668705,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,133975164,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,33276210,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,2718337165,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,31981503,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,29577698,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,230903998,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,7019013153,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,206360700,,,0
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,299613323,,,0
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,1836106965,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,12284202339,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,527034940,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,197458480,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,1226916274,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,22369944191,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,324424813,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,,,103311837,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,7786534919,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,16859044114,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,,,1928607166,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,,,3077915069,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,61954059371,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,20117183023,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,,,65452035012,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,68195614290,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,22377160154,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,46917053007,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,1990419641,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,1335902396,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,10761902237,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,65558408264,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,1723337616,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,945907399,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,47646536985,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,6948149269,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,1289356416,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,1479274939,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,5499113316,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,455596322,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,,,103062649,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,,,111821465,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,,,6641145507,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,27077281867,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,911331982,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,688405792,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,401412440,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,132408979,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,4756691,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,1676791,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,2579502311,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,249464916,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,245574791,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,282684575,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,178846544,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,74650381,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,66274051,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,267989107,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,4824242786,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,3879059564,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,126466088,,,0
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,199432199,,,0
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,3849874002,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,16365547863,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,,,558972240,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,,,524235659,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,1940537750,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,18633796672,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,885064082,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,1161818710,,,0
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,202317919449,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,429953148077,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,,,73551427692,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,74491050649,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,,,521542155083,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,664425032590,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,,,327905828233,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,309722367162,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,,,793334913,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,13274153495,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,,,150358133,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,34852877,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,81492534369,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,75094320906,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,4051427974,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,1255981679,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,30683739479,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,,,4612433292,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,2340656404,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,839857547,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,2056460252,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,25005462758,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,328110351,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,,,115342607,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,,,102526375404,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,,,71444014048,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,,,17526040586,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,18335156009,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,3821226007,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,4721817439,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,9028670400,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,,,8470652594,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,,,488559035,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,,,1639029320,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,,,175995799,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,,,101517041,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,7928643,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,164061416,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,4597700,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,591440,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,3971384239,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,96416994075,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,1536832060,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,859534458,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,2110435842,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,56730621939,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,5308814934,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,7232870851,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,2591079734,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,,,16490178163,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,1102196646,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,,,1386136965,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,,,194043558,,,4
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,,,197293133,,,4
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,,,3191902839,,,4
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,,,1528327228,,,4
+H5,2018,2018,2018,2,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,29854611432,,,0
+H5,2018,2018,2018,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,5279261479,,,0
+H5,2018,2018,2018,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,785407721,,,0
+H5,2018,2018,2018,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,587020866,,,0
