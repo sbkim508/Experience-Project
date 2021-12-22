@@ -1,0 +1,32 @@
+digraph Tree {
+node [shape=box, style="filled", color="black"] ;
+0 [label="TRADE_HSCD_COUNTRYCD <= 17.696\nsamples = 100.0%\nvalue = 12.719", fillcolor="#f5ccaf"] ;
+1 [label="TRADE_HSCD_COUNTRYCD <= 15.799\nsamples = 53.4%\nvalue = 11.304", fillcolor="#f9e1d0"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="TRADE_HSCD_COUNTRYCD <= 14.559\nsamples = 19.5%\nvalue = 10.054", fillcolor="#fdf3ec"] ;
+1 -> 2 ;
+3 [label="samples = 7.8%\nvalue = 9.237", fillcolor="#ffffff"] ;
+2 -> 3 ;
+4 [label="samples = 11.8%\nvalue = 10.593", fillcolor="#fbebe0"] ;
+2 -> 4 ;
+5 [label="KMDIST <= 0.384\nsamples = 33.9%\nvalue = 12.024", fillcolor="#f7d6bf"] ;
+1 -> 5 ;
+6 [label="samples = 14.6%\nvalue = 12.739", fillcolor="#f4ccaf"] ;
+5 -> 6 ;
+7 [label="samples = 19.3%\nvalue = 11.481", fillcolor="#f8decc"] ;
+5 -> 7 ;
+8 [label="1_4_GDP_INDEX <= 0.001\nsamples = 46.6%\nvalue = 14.34", fillcolor="#f0b48a"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="SP_POP_TOTL <= 18.65\nsamples = 32.1%\nvalue = 13.556", fillcolor="#f2c09c"] ;
+8 -> 9 ;
+10 [label="samples = 26.9%\nvalue = 13.247", fillcolor="#f3c4a3"] ;
+9 -> 10 ;
+11 [label="samples = 5.3%\nvalue = 15.126", fillcolor="#eda978"] ;
+9 -> 11 ;
+12 [label="1_4_GDP_INDEX <= 0.009\nsamples = 14.5%\nvalue = 16.082", fillcolor="#ea9b62"] ;
+8 -> 12 ;
+13 [label="samples = 11.8%\nvalue = 15.678", fillcolor="#eca16b"] ;
+12 -> 13 ;
+14 [label="samples = 2.7%\nvalue = 17.862", fillcolor="#e58139"] ;
+12 -> 14 ;
+}
