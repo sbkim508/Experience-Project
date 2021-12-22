@@ -1,7 +1,0 @@
-Concept,Unit,Code,Scale,2010,2011,2012,2013,2014,2015,2016,2017,2018
-"National Currency per SDR, End of Period",Rate,ENSE_XDC_XDR_RATE,Units,1.15,1.19,1.16,1.12,1.19,1.27,1.28,1.19,1.21
-"National Currency per SDR, Period Average",Rate,ENSA_XDC_XDR_RATE,Units,1.15,1.13,1.19,1.14,1.14,1.26,1.26,1.23,1.20
-"Domestic Currency per U.S. Dollar, End of Period",Rate,ENDE_XDC_USD_RATE,Units,0.75,0.77,0.76,0.73,0.82,0.92,0.95,0.83,0.87
-"Domestic Currency per U.S. Dollar, Period Average",Rate,ENDA_XDC_USD_RATE,Units,0.754308990,0.718413899,0.778338120,0.752945123,0.752728197,0.901296423,0.903421436,0.885205508,0.846772667
-"Nominal Effective Exchange Rate, Trade Partners by Consumer Price Index",Index,ENEER_IX,Units,100.00,101.06,96.40,101.18,103.84,96.23,100.18,102.65,108.02
-"Real Effective Exchange Rate, based on Consumer Price Index",Index,EREER_IX,Units,100.00,99.53,94.36,97.62,98.05,89.10,90.97,92.18,95.87
